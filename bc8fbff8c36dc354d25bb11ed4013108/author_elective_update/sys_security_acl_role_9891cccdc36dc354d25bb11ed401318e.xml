@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 05:27:15</sys_created_on>
+        <sys_id>9891cccdc36dc354d25bb11ed401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1971723_jst_pr_0_device_request.x_1971723_jst_pr_0.device_management</sys_name>
+        <sys_package display_value="JST process delivery" source="x_1971723_jst_pr_0">bc8fbff8c36dc354d25bb11ed4013108</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JST process delivery">bc8fbff8c36dc354d25bb11ed4013108</sys_scope>
+        <sys_security_acl display_value="x_1971723_jst_pr_0_device_request">1491cccdc36dc354d25bb11ed401317d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9891cccdc36dc354d25bb11ed401318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 05:27:15</sys_updated_on>
+        <sys_user_role display_value="x_1971723_jst_pr_0.device_management" name="x_1971723_jst_pr_0.device_management">c98fbff8c36dc354d25bb11ed4013179</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JST process delivery">bc8fbff8c36dc354d25bb11ed4013108</application>
+        <file_path/>
+        <instance_id>c31b4c3e1b8602107d9d2f8dee4bcb35</instance_id>
+        <instance_name>dev268354</instance_name>
+        <name>sys_security_acl_role_9891cccdc36dc354d25bb11ed401318e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-16 05:27:15</sys_created_on><sys_id>9891cccdc36dc354d25bb11ed401318e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1971723_jst_pr_0_device_request.x_1971723_jst_pr_0.device_management</sys_name><sys_package display_value="JST process delivery" source="x_1971723_jst_pr_0">bc8fbff8c36dc354d25bb11ed4013108</sys_package><sys_policy/><sys_scope display_value="JST process delivery">bc8fbff8c36dc354d25bb11ed4013108</sys_scope><sys_security_acl display_value="x_1971723_jst_pr_0_device_request">1491cccdc36dc354d25bb11ed401317d</sys_security_acl><sys_update_name>sys_security_acl_role_9891cccdc36dc354d25bb11ed401318e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-16 05:27:15</sys_updated_on><sys_user_role display_value="x_1971723_jst_pr_0.device_management" name="x_1971723_jst_pr_0.device_management">c98fbff8c36dc354d25bb11ed4013179</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1796008464</payload_hash>
+        <record_name>x_1971723_jst_pr_0_device_request.x_1971723_jst_pr_0.device_management</record_name>
+        <reverted_from/>
+        <source>418fbff8c36dc354d25bb11ed4013150</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 05:27:15</sys_created_on>
+        <sys_id>5891cccdc36dc354d25bb11ed4013193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ecee5ed970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 05:27:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>1891cccda36dc354b4f42ac679fbca92</update_guid>
+        <update_guid_history>1891cccda36dc354b4f42ac679fbca92:-1796008464</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1971723_jst_pr_0_device_request.x_1971723_jst_pr_0.device_management">9352c841c3adc354d25bb11ed40131d9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 05:30:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1cf2912e2bc74634860defdbe5e53d90</sys_id>
+        <sys_metadata>9891cccdc36dc354d25bb11ed401318e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1971723_jst_pr_0_device_request.x_1971723_jst_pr_0.device_management</sys_name>
+        <sys_package display_value="JST process delivery" source="x_1971723_jst_pr_0">bc8fbff8c36dc354d25bb11ed4013108</sys_package>
+        <sys_parent display_value="">1491cccdc36dc354d25bb11ed401317d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="JST process delivery">bc8fbff8c36dc354d25bb11ed4013108</sys_scope>
+        <sys_scope_delete display_value="">0273f0721afc480b801fb96e8c9a9541</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9891cccdc36dc354d25bb11ed401318e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9891cccdc36dc354d25bb11ed401318e">5891cccdc36dc354d25bb11ed4013193</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 05:30:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
